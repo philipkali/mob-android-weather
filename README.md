@@ -1,2 +1,3 @@
-# mob-android-weather
+# android weather app
+
 A weather application
