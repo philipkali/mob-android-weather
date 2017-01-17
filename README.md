@@ -1,3 +1,3 @@
 # android weather app
 
-A weather application
+An android weather application
